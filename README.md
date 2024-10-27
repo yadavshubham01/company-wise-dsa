@@ -1,3 +1,5 @@
+50 tricks Link: https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y
+
 | Company Name        | DSA Problem Link                                                                                                                                       | Tricks for Solving Patterns                          |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
 | Google              | [Google DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Focus on backtracking and dynamic programming.       |
