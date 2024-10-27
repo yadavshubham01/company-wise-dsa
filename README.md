@@ -35,3 +35,6 @@
 | Tesla               | [Tesla DSA Problems](https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y)                                                          | Work on graph traversal and dynamic programming.     |
 | TikTok              | [TikTok DSA Problems](https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y)                                                         | Prioritize dynamic programming and recursion.        |
 | Nvidia              | [Nvidia DSA Problems](https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y)                                                         | Practice matrix problems and dynamic programming.    |
+
+
+#50 tricks to identify DSA Patterns link :  [Resource 1]([https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y](https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y)) , [Resource 2]([[https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y](https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y)](https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y)) 
