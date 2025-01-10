@@ -1,4 +1,7 @@
+My Special Handwritten DSA Notes: https://yournishaant.rpy.club/course/APlFbgQQfN
 50 tricks to identify DSA Patterns Link: https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y
+2000 Top Companies HR Email ID: https://drive.google.com/drive/folders/1hJlxWGMr1UfV9UH84d_HjFP7InTMpPII
+Internship Calender: https://aicteinternship.in/off-campus-internship-calendar-2025/
 
 | Company Name        | DSA Problem Link                                                                                                                                       | Tricks for Solving Patterns                          |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
