@@ -1,4 +1,15 @@
-### 💼 Indian IT Companies – Mass & Mid-Level Recruiters
+
+## 📚 Useful Resource Links
+
+* 🔗 [Off-Campus Internship Calendar 2025](https://aicteinternship.in/off-campus-internship-calendar-2025/)
+* 🔗 [All Hacks – Reskilll Events](https://reskilll.com/allhacks)
+* 🔗 [YouTube – Content Creation Tips](https://youtu.be/RHi26oDdKQI?si=HDvXGBkcJSITNq7s)
+* 🔗 [📄 Placement Resources (Google Sheet)](https://docs.google.com/spreadsheets/d/1WM1qg_gjJRms5d4mcZslO7dEgMqxlbnu0UIYw-7WgAA/edit?gid=0#gid=0)
+* 🔗 [📘 Ebooks Collection (Google Sheet)](https://docs.google.com/spreadsheets/d/1mNvWvTQaA_GXLAiHICi70BYRXBPX-yTpTdfZNyJGgcM/htmlview?fbclid=PAQ0xDSwLLd4xleHRuA2FlbQIxMAABp8YcseXFPCW9nxElHKPo9E_jZQRlStrvsAt0Oc1vE8I6_SxC0B4uQLfm8UyS_aem_dcyIZ7MblR0C4Fp89zkYtg)
+
+---
+
+## 💼 Indian IT Companies – Mass & Mid-Level Recruiters
 
 | Company             | Min CGPA | Job Roles               | Approx CTC       | Important Topics                          |
 | ------------------- | -------- | ----------------------- | ---------------- | ----------------------------------------- |
@@ -40,24 +51,39 @@
 
 ---
 
-### 🚀 High-Paying Product-Based Companies
+## 🚀 High-Paying Product-Based Companies
 
-| Company         | Min CGPA | Job Roles            | Approx CTC    | Important Topics                       |
-| --------------- | -------- | -------------------- | ------------- | -------------------------------------- |
-| Zycus           | 6.5+     | Software Engineer    | ₹5 – ₹8 LPA   | DSA, Java, SQL                         |
-| Icertis         | 6.5+     | Engineer             | ₹6 – ₹8 LPA   | Contract Lifecycle Mgmt, DSA           |
-| PubMatic        | 6.5+     | Software Engineer    | ₹6 – ₹9 LPA   | Data Structures, Web Tech              |
-| MAQ Software    | 6.0+     | Software Engineer    | ₹5 – ₹7 LPA   | SQL Server, Azure                      |
-| Nagarro         | 6.0+     | Trainee Technology   | ₹4 – ₹6 LPA   | Java, C#, DSA                          |
-| Google India    | 7.0+     | Software Engineer    | ₹30 – ₹40 LPA | DSA, System Design, OS, CN, ML         |
-| Microsoft India | 7.0+     | Software Engineer    | ₹30 – ₹45 LPA | DSA, OOPs, OS, DBMS, Projects          |
-| Amazon India    | 7.0+     | SDE-1                | ₹25 – ₹30 LPA | DSA, Problem Solving, CN, DBMS         |
-| Adobe India     | 7.0+     | Software Engineer    | ₹25 – ₹30 LPA | Algorithms, DBMS, Aptitude             |
-| VMware          | 7.0+     | Member of Tech Staff | ₹20 – ₹25 LPA | System Programming, OS, Virtualization |
-| Atlassian       | 7.0+     | Software Engineer    | ₹25 – ₹28 LPA | DSA, Backend Dev, Cloud                |
-| Uber            | 7.0+     | Software Engineer    | ₹35 – ₹40 LPA | DSA, ML, System Design                 |
-| Arcesium        | 7.0+     | Software Engineer    | ₹25 – ₹30 LPA | Data Structures, Finance + Programming |
-| Salesforce      | 7.0+     | Software Engineer    | ₹24 – ₹28 LPA | OOPs, Apex, Cloud Tech                 |
-| LinkedIn        | 7.0+     | Software Engineer    | ₹35 – ₹40 LPA | Web Dev, DSA, Product Thinking         |
-| Sprinklr        | 7.0+     | Product Engineer     | ₹20 – ₹22 LPA | DSA, Backend, DevOps                   |
-| Flipkart        | 7.0+     | SDE-1                | ₹20 – ₹26 LPA | D                                      |
+| Company         | Min CGPA | Job Role           | Approx CTC    | Important Topics               |
+| --------------- | -------- | ------------------ | ------------- | ------------------------------ |
+| Zycus           | 6.5+     | Software Engineer  | ₹5 – ₹8 LPA   | DSA, Java, SQL                 |
+| Icertis         | 6.5+     | Engineer           | ₹6 – ₹8 LPA   | Contract Lifecycle Mgmt, DSA   |
+| PubMatic        | 6.5+     | Software Engineer  | ₹6 – ₹9 LPA   | Data Structures, Web Tech      |
+| MAQ Software    | 6.0+     | Software Engineer  | ₹5 – ₹7 LPA   | SQL Server, Azure              |
+| Nagarro         | 6.0+     | Trainee Technology | ₹4 – ₹6 LPA   | Java, C#, DSA                  |
+| Google India    | 7.0+     | Software Engineer  | ₹30 – ₹40 LPA | DSA, System Design, OS, CN, ML |
+| Microsoft India | 7.0+     | Software Engineer  | ₹30 – ₹45 LPA | DSA, OOPs, OS, DBMS, Projects  |
+| Amazon India    | 7.0+     | SDE-1              | ₹25 – ₹30 LPA | DSA, Problem Solving, CN       |
+
+
+, DBMS                 |
+\| Adobe India         | 7.0+     | Software Engineer       | ₹25 – ₹30 LPA        | Algorithms, DBMS, Aptitude                     |
+\| VMware              | 7.0+     | MTS                     | ₹20 – ₹25 LPA        | System Programming, OS, Virtualization         |
+\| Atlassian           | 7.0+     | Software Engineer       | ₹25 – ₹28 LPA        | DSA, Backend Dev, Cloud                        |
+\| Uber                | 7.0+     | Software Engineer       | ₹35 – ₹40 LPA        | DSA, ML, System Design                         |
+\| Arcesium            | 7.0+     | Software Engineer       | ₹25 – ₹30 LPA        | Data Structures, Finance + Programming         |
+\| Salesforce          | 7.0+     | Software Engineer       | ₹24 – ₹28 LPA        | OOPs, Apex, Cloud Tech                         |
+\| LinkedIn            | 7.0+     | Software Engineer       | ₹35 – ₹40 LPA        | Web Dev, DSA, Product Thinking                 |
+\| Sprinklr            | 7.0+     | Product Engineer        | ₹20 – ₹22 LPA        | DSA, Backend, DevOps                           |
+\| Flipkart            | 7.0+     | SDE-1                   | ₹20 – ₹26 LPA        | DSA, Projects, System Design                   |
+\| CRED                | 7.0+     | Software Developer      | ₹23 – ₹30 LPA        | Web Dev, Product Development, DSA              |
+\| Media.net           | 7.0+     | Software Engineer       | ₹10 – ₹12 LPA        | DSA, OS, CN                                    |
+\| DE Shaw             | 7.0+     | Software Engineer       | ₹25 – ₹28 LPA        | Math, Algorithms, DBMS                         |
+\| Goldman Sachs       | 7.0+     | Engineer Analyst        | ₹10 – ₹15 LPA        | Aptitude, Programming, DBMS                    |
+\| Rubrik              | 7.0+     | Software Engineer       | ₹30 – ₹35 LPA        | Distributed Systems, DSA                       |
+\| Nutanix             | 7.0+     | Software Developer      | ₹28 – ₹32 LPA        | Systems Programming, DSA, OS                   |
+\| Tower Research      | 7.0+     | Software Developer      | ₹35 – ₹40 LPA        | Maths, C++, Algorithms                         |
+\| Zeta (Directi)      | 7.0+     | Software Engineer       | ₹25 – ₹30 LPA        | Web Backend, OS, Networking                    |
+
+---
+
+Let me know if you’d like a downloadable **PDF**, **Notion page**, or **Excel format** of this content!
